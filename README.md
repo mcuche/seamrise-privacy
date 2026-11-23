@@ -1,4 +1,4 @@
 # seamrise-privacy
 
-Privacy policy for Seamrise, the Android app that stitches photos into panoramas on your phone.
+Privacy policy for the 'Seamrise: Panorama Stitcher' Android app.
 Published with GitHub Pages from `index.md`.
